@@ -1,0 +1,11 @@
+Amethyst Chandelier
+Basic Torch
+Diamond Chandelier
+Emerald Chandelier
+Ice Torch
+Oil Lantern
+Ruby Chandelier
+Sapphire Chandelier
+Steel Downlight
+Steel Lantern
+Steel Uplight

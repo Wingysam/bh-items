@@ -1,0 +1,14 @@
+Mirror
+Portal (0. Normal)
+Portal (1. Amethyst)
+Portal (2. Sapphire)
+Portal (3. Emerald)
+Portal (4. Ruby)
+Portal (6. Diamond)
+Portal Chest
+Trade Portal (Level 1)
+Trade Portal (Level 2)
+Trade Portal (Level 3)
+Trade Portal (Level 4)
+Trade Portal (Level 5)
+Trade Portal (Level 6)

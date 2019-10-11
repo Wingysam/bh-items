@@ -1,0 +1,36 @@
+Amethyst
+Amethyst Shard
+Bronze Ingot
+Clay
+Coal
+Copper Coin
+Copper Ingot
+Copper Ore
+Crushed Limestone
+Diamond
+Diamond Shard
+Emerald
+Emerald Shard
+Flint
+Gold Ingot
+Gold Nugget
+Golden Coin
+Iron Ingot
+Iron Ore
+Oil
+Pig Iron
+Platinum Coin
+Platinum Ingot
+Platinum Nugget
+Ruby
+Ruby Shard
+Sapphire
+Sapphire Shard
+Silicon Crystal
+Silicon Ingot
+Silicon Wafer
+Steel Ingot
+Tin Ingot
+Tin Ore
+Titanium Ingot
+Titanium Ore

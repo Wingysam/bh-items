@@ -1,0 +1,48 @@
+Armor Bench (Level 1)
+Armor Bench (Level 2)
+Armor Bench (Level 3)
+Builder's Bench (Level 1)
+Builder's Bench (Level 2)
+Campfire
+Compost Bin
+Craft Bench (Level 1)
+Craft Bench (Level 2)
+Craft Bench (Level 3)
+Craft Bench (Level 4)
+Dye Bench (Level 1)
+Dye Bench (Level 2)
+Dye Bench (Level 3)
+Easel (Level 1)
+Easel (Level 2)
+Easel (Level 3)
+Electric Furnace
+Electric Kiln
+Electric Metalwork Bench
+Electric Press
+Electric Sluice
+Electric Stove
+Furnace (Level 1)
+Furnace (Level 2)
+Furnace (Level 3)
+Kiln
+Metalwork Bench (Level 1)
+Metalwork Bench (Level 2)
+Mixing Bench (Level 1)
+Mixing Bench (Level 2)
+Mixing Bench (Level 3)
+Pizza Oven
+Press (Level 1)
+Press (Level 2)
+Press (Level 3)
+Refinery
+Tailor's Bench (Level 1)
+Tailor's Bench (Level 2)
+Tool Bench (Level 1)
+Tool Bench (Level 2)
+Tool Bench (Level 3)
+Tool Bench (Level 4)
+Tool Bench (Level 5)
+Tool Bench (Level 6)
+Tool Bench (Level 7)
+Train Yard
+Woodwork Bench

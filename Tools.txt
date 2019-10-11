@@ -1,0 +1,24 @@
+Bronze Machete
+Bronze Pickaxe
+Bronze Sword
+Copper Box & Arrows
+Crowbar
+Flint Axe
+Flint Machete
+Flint Pickaxe
+Flint Spade
+Flint Spear
+Gold Bow & Poison Arrows
+Gold Pickaxe
+Gold Spade
+Iron Axe
+Iron Pickaxe
+Iron Sword
+Razor
+Steel Pickaxe
+Stone Axe
+Stone Pickaxe
+Stone Spade
+Tin Spade
+Titanium Pickaxe
+Titanium Sword

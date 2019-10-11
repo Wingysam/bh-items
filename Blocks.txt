@@ -1,0 +1,38 @@
+Amethyst Block
+Basalt
+Black Glass
+Black Sand
+Bronze Block
+Carbon Fiber Block
+Compost
+Copper Block
+Diamond Block
+Dirt
+Emerald Block
+Glass
+Gold Block
+Gravel
+Ice
+Iron Block
+Iron Door
+Iron Trapdoor
+Lapis Lazuli
+Limestone
+Luminous Plaster
+Marble
+Plaster
+Platinum Block
+Red Brick
+Red Marble
+Reinforced Platform
+Ruby Block
+Sand
+Sandstone
+Sapphire Block
+Steel Block
+Stone
+Tin Block
+Titanium Block
+Trapdoor
+Wood
+Wooden Door

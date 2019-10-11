@@ -1,0 +1,54 @@
+Amethyst Column
+Amethyst Stairs
+Basalt Column
+Basalt Stairs
+Black Glass Column
+Black Glass Stairs
+Brick column
+Brick stairs
+Bronze Column
+Bronze Stairs
+Carbon Fiber Column
+Carbon Fiber Stairs
+Copper Column
+Copper Stairs
+Diamond Column
+Diamond Stairs
+Emerald Column
+Emerald Stairs
+Glass Column
+Glass Stairs
+Gold Column
+Gold Stairs
+Ice Column
+Ice Stairs
+Iron Column
+Iron Stairs
+Lapis Lazuli Column
+Lapis Lazuli Stairs
+Limestone Column
+Limestone Stairs
+Marble Column
+Marble Stairs
+Plaster Column
+Plaster Stairs
+Platinum Column
+Platinum Stairs
+Red Marble Column
+Red Marble Stairs
+Ruby Column
+Ruby Stairs
+Sandstone Column
+Sandstone Stairs
+Sapphire Column
+Sapphire Stairs
+Steel Column
+Steel Stairs
+Stone Column
+Stone Stairs
+Tin Column
+Tin Stairs
+Titanium Column
+Titanium Stairs
+Wood Column
+Wood Stairs
